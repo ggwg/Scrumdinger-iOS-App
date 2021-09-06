@@ -21,6 +21,8 @@
 		AF2783EF26E65B8A0038F050 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF2783ED26E65B8A0038F050 /* CardView.swift */; };
 		AF2783F126E6657D0038F050 /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF2783F026E6657D0038F050 /* ScrumsView.swift */; };
 		AF2783F226E6657D0038F050 /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF2783F026E6657D0038F050 /* ScrumsView.swift */; };
+		AF2783F426E671360038F050 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF2783F326E671360038F050 /* DetailView.swift */; };
+		AF2783F526E671360038F050 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF2783F326E671360038F050 /* DetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,6 +60,7 @@
 		AF2783EA26E65AE30038F050 /* DailyScrum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyScrum.swift; sourceTree = SOURCE_ROOT; };
 		AF2783ED26E65B8A0038F050 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = SOURCE_ROOT; };
 		AF2783F026E6657D0038F050 /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = SOURCE_ROOT; };
+		AF2783F326E671360038F050 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +115,7 @@
 				AF2783EA26E65AE30038F050 /* DailyScrum.swift */,
 				AF2783ED26E65B8A0038F050 /* CardView.swift */,
 				AF2783F026E6657D0038F050 /* ScrumsView.swift */,
+				AF2783F326E671360038F050 /* DetailView.swift */,
 				AF2783AF26E655E70038F050 /* Assets.xcassets */,
 			);
 			path = Shared;
@@ -321,6 +325,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AF2783D826E655E70038F050 /* MeetingView.swift in Sources */,
+				AF2783F426E671360038F050 /* DetailView.swift in Sources */,
 				AF2783EB26E65AE30038F050 /* DailyScrum.swift in Sources */,
 				AF2783EE26E65B8A0038F050 /* CardView.swift in Sources */,
 				AF2783F126E6657D0038F050 /* ScrumsView.swift in Sources */,
@@ -333,6 +338,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AF2783D926E655E70038F050 /* MeetingView.swift in Sources */,
+				AF2783F526E671360038F050 /* DetailView.swift in Sources */,
 				AF2783EC26E65AE30038F050 /* DailyScrum.swift in Sources */,
 				AF2783EF26E65B8A0038F050 /* CardView.swift in Sources */,
 				AF2783F226E6657D0038F050 /* ScrumsView.swift in Sources */,
