@@ -12,3 +12,4 @@ remaining in the meeting and creates a transcript that users can refer to later.
 
 This app is part of Apple's Swift development tutorial.
 
+![Screenshot 1](/UI1.jpg)
