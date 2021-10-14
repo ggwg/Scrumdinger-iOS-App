@@ -14,4 +14,3 @@ This app is part of Apple's Swift development tutorial.
 
 ![Screenshot 1](/UI1.png)
 ![Screenshot 2](/UI2.png)
-![Screenshot 3](/UI3.png)
